@@ -1,4 +1,5 @@
 # Gulp_2023
+1. npm i
 * browser-sync : 2.29.3
 * gulp: 4.0.2
 * gulp-autoprefixer : 8.0.0
