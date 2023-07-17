@@ -16,3 +16,6 @@
 * gulp-uglify-es : 3.0.0
 * gulp-webp : 4.0.1
 * sass : 1.63.6
+
+
+* function building {'app/images/sprite.svg',}
